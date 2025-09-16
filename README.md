@@ -7,7 +7,8 @@
 
 A **Streamlit-based web application** that allows users to upload **financial documents (PDF & Excel)** and ask **natural language questions** about key financial metrics such as **revenue, expenses, profit, assets, liabilities, and cash flow**.  
 
-![Demo Screenshot](https://via.placeholder.com/900x400.png?text=Financial+Q%26A+Assistant+Demo)  
+![Demo Screenshot](<img width="1918" height="1018" alt="Screenshot 2025-09-16 115318" src="https://github.com/user-attachments/assets/51158a42-4bd8-4ca6-88de-b60db00353e7" />
+)  
 
 ---
 
