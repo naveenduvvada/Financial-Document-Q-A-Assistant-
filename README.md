@@ -7,9 +7,6 @@
 
 A **Streamlit-based web application** that allows users to upload **financial documents (PDF & Excel)** and ask **natural language questions** about key financial metrics such as **revenue, expenses, profit, assets, liabilities, and cash flow**.  
 
-![Demo Screenshot](<img width="1918" height="1018" alt="Screenshot 2025-09-16 115318" src="https://github.com/user-attachments/assets/51158a42-4bd8-4ca6-88de-b60db00353e7" />
-)  
-
 ---
 
 ## 🚀 Features  
@@ -81,15 +78,6 @@ Upload a **financial PDF or Excel** (e.g., `sample_financials.pdf`) and try aski
 
 ---
 
-## 🖼️ Screenshots  
-
-### Upload Document  
-![Upload Screenshot](https://via.placeholder.com/800x300.png?text=Upload+Financial+Document)  
-
-### Ask Questions  
-![Chat Screenshot](https://via.placeholder.com/800x300.png?text=Ask+Questions+About+Revenue+Expenses+Profit)  
-
----
 
 ## 📤 Submission  
 This repo contains:  
